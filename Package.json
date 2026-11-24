@@ -1,0 +1,12 @@
+{
+  "name": "shopee-afiliado-bot",
+  "version": "1.0.0",
+  "description": "App automatizado para afiliados Shopee, Flow e Redes Sociais",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
